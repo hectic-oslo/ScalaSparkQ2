@@ -68,7 +68,7 @@ Ensure these dependencies are installed and configured in your environment.
 
 ## Sample Input 
 1. **Command Line arguments**
-   <year>
+   - **`<Year>`**
 2. [2018-2010_export.csv](https://drive.google.com/file/d/1ev-30a1L0okJSGhlfqndSNr_QDqjS4-p/view?usp=sharing)
 
 ## Sample OutPut

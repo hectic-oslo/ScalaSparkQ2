@@ -72,6 +72,9 @@ Ensure these dependencies are installed and configured in your environment.
 
 ## Sample OutPut
 
+<img width="335" alt="image" src="https://github.com/user-attachments/assets/184dcb91-0104-48f2-9950-78bd6ee77d9d">
+
+
 <img width="503" alt="image" src="https://github.com/user-attachments/assets/00b421ab-7edc-4529-8556-4e3bf101f060">
 
 

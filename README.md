@@ -39,6 +39,6 @@ Ensure these dependencies are installed and configured in your environment.
 1. **ExportExtractor**
 Purpose: Reads and extracts data from CSV files into DataFrames.
 
-**Method:**
-```text
+**Method:** ```text
 extractData(filePath: String)(implicit spark: SparkSession): DataFrame
+

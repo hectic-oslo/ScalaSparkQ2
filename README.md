@@ -9,7 +9,6 @@ This project is a Scala-based Spark job designed to process export data, aggrega
 - [Project Structure](#project-structure)
 - [Requirements](#requirements)
 - [Setup](#setup)
-- [Usage](#usage)
 - [Class Descriptions](#class-descriptions)
 - [Output Structure](#output-structure)
 - [Sample Input and Output](#sample-input-and-output)
@@ -35,3 +34,9 @@ Ensure these dependencies are installed and configured in your environment.
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-repo/ExportDataAggregator.git
+   cd ExportDataAggregator
+## Class Descriptions
+1. **ExportExtractor**
+Purpose: Reads and extracts data from CSV files into DataFrames.
+
+**Method:** ``` extractData(filePath: String)(implicit spark: SparkSession): DataFrame

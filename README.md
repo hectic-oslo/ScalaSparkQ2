@@ -61,7 +61,8 @@ Ensure these dependencies are installed and configured in your environment.
 
 ## Output Structure
 
-<img width="245" alt="image" src="https://github.com/user-attachments/assets/1d5a437b-bef0-4ce6-b888-3525b9b94a67">
+<img width="257" alt="image" src="https://github.com/user-attachments/assets/57d2102c-18b9-4242-aab7-928f20b86ba5">
+
 
 
 ## Sample Input 

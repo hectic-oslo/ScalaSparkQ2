@@ -11,7 +11,8 @@ This project is a Scala-based Spark job designed to process export data, aggrega
 - [Setup](#setup)
 - [Class Descriptions](#class-descriptions)
 - [Output Structure](#output-structure)
-- [Sample Input and Output](#sample-input-and-output)
+- [Sample Input](#sample-input)
+- [Sample Output](#sample-Output)
 - [Testing](#testing)
 
 ## Overview
@@ -68,7 +69,7 @@ Ensure these dependencies are installed and configured in your environment.
 ## Sample Input 
 1. **Command Line arguments**
    <year>
-2. 2018-2010_export.csv
+2. [2018-2010_export.csv](https://drive.google.com/file/d/1ev-30a1L0okJSGhlfqndSNr_QDqjS4-p/view?usp=sharing)
 
 ## Sample OutPut
 

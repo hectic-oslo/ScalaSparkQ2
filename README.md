@@ -1,6 +1,6 @@
 # ScalaSparkQ2
 
-# Yearly Export Data Aggregation and Country Ranking
+
 
 This project is a Scala-based Spark job designed to process export data, aggregate it by year and commodity, and rank countries by export values. The output is structured into directories by year and commodity, providing clear insights into export performance.
 

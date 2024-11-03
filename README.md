@@ -60,6 +60,7 @@ Ensure these dependencies are installed and configured in your environment.
    Purpose: The main entry point that coordinates data extraction, aggregation, and writing.
 
 ## Output Structure
+
 output/
 └── <year>/
     ├── <commodity>/
@@ -71,7 +72,10 @@ output/
 2. 2018-2010_export.csv
 
 ## Sample OutPut
+
 <img width="503" alt="image" src="https://github.com/user-attachments/assets/00b421ab-7edc-4529-8556-4e3bf101f060">
+
+
 Note :- This is just one sample data. we will receive data for all such comodities
 
 ## Testing

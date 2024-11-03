@@ -37,8 +37,17 @@ Ensure these dependencies are installed and configured in your environment.
    cd ExportDataAggregator
 ## Class Descriptions
 1. **ExportExtractor**
-Purpose: Reads and extracts data from CSV files into DataFrames.
+   Purpose: Reads data from CSV files into DataFrames.
 
-**Method:** ```text
-extractData(filePath: String)(implicit spark: SparkSession): DataFrame
+   **Method:**
+   ```text
+   readData(spark: SparkSession, path: String): DataFrame
+
+2. **ExportAggregator**
+   Purpose: Aggregates data for a given year and commodity, and ranks countries by total export value.
+
+  **Method:**
+   ```text
+   readData(spark: SparkSession, path: String): DataFrame
+Description: This method filters the input DataFrame for the specified year, groups data by commodity and country, calculates the total value for each, and assigns a rank based on the export value.
 

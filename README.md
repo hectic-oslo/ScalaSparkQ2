@@ -61,10 +61,8 @@ Ensure these dependencies are installed and configured in your environment.
 
 ## Output Structure
 
-output/
-└── <year>/
-    ├── <commodity>/
-    │   └── exportRanking.csv
+<img width="245" alt="image" src="https://github.com/user-attachments/assets/1d5a437b-bef0-4ce6-b888-3525b9b94a67">
+
 
 ## Sample Input 
 1. **Command Line arguments**
